@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cypress": "^13.13.3"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.30.0",
+    "allure-cypress": "^3.0.0-beta.10"
+  }
+}
